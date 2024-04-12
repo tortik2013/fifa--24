@@ -1,0 +1,53 @@
+.top{
+    font-size: 65px;
+    color: rgb(15, 185, 52);
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 45px;
+    color: rgb(15, 185, 52);
+    font-family: 'Times New Roman', Times, serif;
+}
+.tor{
+    font-size: 65px;
+    color: rgb(15, 185, 52);
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-size: 45px;
+    color: rgb(15, 185, 52);
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    font-size: 45px;
+    color: rgb(15, 185, 52);
+    font-family: 'Times New Roman', Times, serif;
+}
+h4{
+    font-size: 45px;
+    color: rgb(15, 185, 52);
+    font-family: 'Times New Roman', Times, serif;
+}
+h5{
+    font-size: 45px;
+    color: rgb(15, 185, 52);
+    font-family: 'Times New Roman', Times, serif;
+}
+h6{
+    font-size: 45px;
+    color: rgb(15, 185, 52);
+    font-family: 'Times New Roman', Times, serif;  
+}
+.backimage{
+    z-index: -1;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100vw;
+    height: 100vh;
+}
+.poq{
+    font-size: 65px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(15, 185, 52);
+}
