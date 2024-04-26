@@ -1,0 +1,19 @@
+body {
+    background-color:rgb(227, 252, 2);
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h6 {
+    font-size: 45px;
+    background-color: rgba(255, 5, 5, 0.2);
+    font-family: 'Times New Roman', Times, serif;
+}
+.end{
+    color: black;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
