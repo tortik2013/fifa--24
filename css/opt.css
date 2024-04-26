@@ -1,0 +1,33 @@
+ h1{
+    color: sandybrown;
+    font-size: 90px;
+    font-family: unset;
+ }
+ h2{
+    color: salmon;
+    font-size: 80px;
+    font-family: unset;
+}
+h3{
+    color: saddlebrown;
+    font-size: 70px;
+    font-family: unset;
+}
+img{
+    height: 500px;
+    width: 600px;
+    border: 6px solid red;
+}
+body{
+    background-color: bisque;
+}
+
+.child-cont{
+    width: 49%;
+    display: inline-block;
+
+}
+
+.main-cont{
+    padding-left: 10px;
+}
