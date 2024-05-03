@@ -1,21 +1,21 @@
- h1{
+ .h18{
     color: sandybrown;
     font-size: 90px;
     font-family: unset;
  }
- h2{
+ .h19{
     color: salmon;
     font-size: 80px;
     font-family: unset;
 }
-h3{
+.h20{
     color: saddlebrown;
-    font-size: 70px;
+    font-size: 75px;
     font-family: unset;
 }
-img{
-    height: 500px;
-    width: 600px;
+.h21{
+    height: 300px;
+    width: 300px;
     border: 6px solid red;
 }
 body{

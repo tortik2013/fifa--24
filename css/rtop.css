@@ -1,4 +1,4 @@
-.woop {
+.html{
     width: 100px;
     height: 100px;
     position: relative;
@@ -20,7 +20,7 @@
     }
 }
 
-.top {
+.title{
     width: 100px;
     height: 100px;
     position: relative;
@@ -42,7 +42,7 @@
     }
 }
 
-.rop {
+ .br{
     width: 100px;
     height: 100px;
     position: relative;
@@ -64,7 +64,7 @@
     }
 }
 
-.kop {
+ .a{
     width: 100px;
     height: 100px;
     position: relative;
@@ -86,7 +86,7 @@
     }
 }
 
-.pop {
+.body {
     width: 100px;
     height: 100px;
     position: relative;
@@ -117,7 +117,7 @@ img {
     width: 750px;
 }
 
-.wer {
+ .height{
     width: 450px;
     height: 500px;
     position: relative;
@@ -139,7 +139,7 @@ img {
     }
 }
 
-.tor {
+.width{
     width: 450px;
     height: 500px;
     position: relative;
@@ -202,7 +202,7 @@ img {
     to {
         transform: translateY(100%);
     }
-}
-p{
+} 
+.meta{
     font-size: 60px
 }

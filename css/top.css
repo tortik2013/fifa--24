@@ -7,12 +7,12 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
 }
 
-h6 {
+.h9 {
     font-size: 45px;
     background-color: rgba(255, 5, 5, 0.2);
     font-family: 'Times New Roman', Times, serif;
 }
-.end{
+.h10{
     color: black;
     font-size: 60px;
     font-family: 'Times New Roman', Times, serif;
