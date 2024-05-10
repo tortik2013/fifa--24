@@ -4,6 +4,7 @@
     position: relative;
     animation: myscale 5s;
     animation-delay: 2s;
+    display: none;
 }
 
 @keyframes myscale {
@@ -26,6 +27,7 @@
     position: relative;
     animation: h1 5s;
     animation-delay: 2s;
+    display: none;
 }
 
 @keyframes h1 {
@@ -48,6 +50,7 @@
     position: relative;
     animation: h2 5s;
     animation-delay: 2s;
+    display: none;
 }
 
 @keyframes h2 {
@@ -70,6 +73,7 @@
     position: relative;
     animation: h3 5s;
     animation-delay: 2s;
+    display: none;
 }
 
 @keyframes h3 {
@@ -92,6 +96,7 @@
     position: relative;
     animation: h4 5s;
     animation-delay: 2s;
+    display: none;
 }
 
 @keyframes h4 {
@@ -123,6 +128,7 @@ img {
     position: relative;
     animation: h5 5s;
     animation-delay: 2s;
+    display: none;
 }
 
 @keyframes h5 {
@@ -145,6 +151,7 @@ img {
     position: relative;
     animation: h6 5s;
     animation-delay: 2s;
+    display: none;
 }
 
 @keyframes h6 {
