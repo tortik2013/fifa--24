@@ -188,6 +188,7 @@ img {
     animation-timing-function: linear;
     animation-duration: 1.5s;
     animation-delay: .1s;
+    display: none;
     
 }
 
