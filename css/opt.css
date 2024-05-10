@@ -16,7 +16,7 @@
 .h21{
     height: 300px;
     width: 300px;
-    border: 6px solid red;
+    border: 1px solid red;
 }
 body{
     background-color: bisque;
